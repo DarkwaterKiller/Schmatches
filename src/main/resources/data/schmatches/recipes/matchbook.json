@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "schmatches:match"
+    },
+    {
+      "item": "schmatches:match"
+    },
+    {
+      "item": "schmatches:match"
+    },
+    {
+      "item": "schmatches:match"
+    },
+    {
+      "item": "schmatches:match"
+    },
+    {
+      "item": "schmatches:match"
+    },
+    {
+      "item": "schmatches:match"
+    },
+    {
+      "item": "schmatches:match"
+    }
+  ],
+  "result": {
+    "item": "schmatches:matchbook"
+  }
+}
